@@ -65,6 +65,11 @@ body { background-color: #33ccff;
 	column-gap:41px;
  
  }
+	 
+jpg{
+	width:100%;
+}
+	
 	 /* styles for screens up to 400 wide */
  @media screen and (min-width: px){
 
